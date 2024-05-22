@@ -130,20 +130,20 @@
 <div class="team">
     <!-- Exemple de blocs pour chaque membre de l'équipe -->
     <div class="professor">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Dr. John Smith - john.smith@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/dbpwjt1/IMG-20240522-164418.jpg" alt="Dr. John Smith - john.smith@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Pr. Matthieu Milharo</h3>
         <span>Matthieu.Milharo@univ-lemans.fr</span>
         <p>Professeur et superviseur du projet.</p>
     </div>
 
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/0MtB00w/IMG-20240522-160832.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Sanogo Kassoum</h3>
         <span>Sanogo.Kassoum.Etu@univ-lemans.fr</span>
         <p>Responsable Notices et Co-responsable Développement Site Web. </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/0jBVKXk/IMG-20240522-160759.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Youssef Ermadi</h3>
         <span>Youssef.Ermadi.Etu@univ-lemans.fr</span>
         <p>Developpeur - site web / Notices. </p>
