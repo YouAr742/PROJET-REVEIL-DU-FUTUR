@@ -162,14 +162,14 @@
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Antoine Riaublanc</h3>
+        <span>Antoine.Riaublanc.Etu@univ-lemans.fr</span>
+        <p>Developpeur - site web / Notices. </p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
+        <h3>Antoine Beaugas</h3>
+        <span>Antoine.Beaugas.Etu@univ-lemans.fr</span>
         <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
     </div>
     <div class="member">
